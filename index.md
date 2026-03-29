@@ -1,3 +1,12 @@
+---
+layout: default
+title: Home
+---
+
+{% if page.url == "/" %}
+   <meta name="google-site-verification" content="7fKYCbkDwbQGm37F8VO5jR_OUBanikFjF3FfdljMY3A" />
+{% endif %}
+
 Chip Kastner's github.
 
 ---
