@@ -1,5 +1,3 @@
-# Chip Kastner
-
 ## About
 Chip Kastner's github.
 
