@@ -1,0 +1,14 @@
+title: Chip Kastner
+description: Github
+
+theme: minima
+
+url: https://chip-kastner.github.io
+baseurl: ""
+
+# Navigation (keep it simple)
+header_pages:
+  - index.md
+
+plugins:
+  - jekyll-seo-tag
