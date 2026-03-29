@@ -18,7 +18,10 @@ Chip Kastner's github.
 
 **Editor, St. Louis Hills News and Views**, 2017 - Present ([Website](https://stlhills.com/newsletter/))
 
+---
+
 ## Links
+
 - [LinkedIn](https://www.linkedin.com/in/chip-kastner-6771bb5)
 - [Instagram](https://www.instagram.com/chipkastner)
 - [Facebook](https://www.facebook.com/profile.php?id=61576435738114)
