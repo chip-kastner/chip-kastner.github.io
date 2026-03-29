@@ -1,2 +1,1 @@
-# chip-kastner.github.io
-Chip Kastner’s github
+#  Chip Kastner's github
