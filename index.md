@@ -1,4 +1,4 @@
-
+![Profile Photo](/images/profile.jpg){: style="width:150px; border-radius:50%;" }
 # Chip Kastner
 
 ## About
