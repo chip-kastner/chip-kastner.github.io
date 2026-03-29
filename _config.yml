@@ -10,8 +10,8 @@ baseurl: ""
 header_pages:
   - index.md
 
-# plugins:
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
