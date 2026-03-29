@@ -3,25 +3,28 @@ layout: default
 title: Home
 ---
 
-Chip Kastner's github.
+Hello—I'm Chip Kastner. I'm a product manager with a background in computer engineering.  Here's a bit about my work and interests.
 
 ---
 
 ## Publications
 
-**HAIL: a hardware-accelerated algorithm for language identification**, International Conference on Field Programmable Logic and Applications, 2005
+**HAIL: A Hardware-Accelerated Algorithm for Language Identification**  
+International Conference on Field Programmable Logic and Applications, 2005
 
 ---
 
-## Volunteer Activities
+## Community Involvement
 
-**Commissioner, St. Louis Hills Special Business District**, 2026 - Present ([Website](https://www.stlhillssbd.com))
+**Commissioner, St. Louis Hills Special Business District** (2026–Present)  
+[Website](https://www.stlhillssbd.com)
 
-**Editor, St. Louis Hills News and Views**, 2017 - Present ([Website](https://stlhills.com/newsletter/))
+**Editor, St. Louis Hills News and Views** (2017–Present)  
+[Website](https://stlhills.com/newsletter/)
 
 ---
 
-## Links
+## Social
 
 - [LinkedIn](https://www.linkedin.com/in/chip-kastner-6771bb5)
 - [Instagram](https://www.instagram.com/chipkastner)
