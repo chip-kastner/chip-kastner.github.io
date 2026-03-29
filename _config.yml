@@ -12,3 +12,12 @@ header_pages:
 
 plugins:
   - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Optional minima styling
+minima:
+  skin: auto
+  date_format: "%b %-d, %Y"
