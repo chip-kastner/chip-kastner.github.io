@@ -11,11 +11,11 @@ Hello—I'm Chip Kastner. I'm a product manager with a background in computer en
 
 **HAIL: A Hardware-Accelerated Algorithm for Language Identification**  
 G. Adam Covington, **Chip Kastner**, Andrew Levine, John Lockwood  
-International Conference on Field Programmable Logic and Applications (FPL), 2005  [CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=2a22469466d4c44dfb23605d59122291bc77bb44&repid=rep1&type=pdf)
+International Conference on Field Programmable Logic and Applications (FPL), 2005  [DOI](https://www.doi.org/10.1109/FPL.2005.1515771)
 
 **Transformation Algorithms for Data Streams**  
 Mike Attig, Stephen G. Eick, **Chip Kastner**, Andrew Levine, John W. Lockwood, Ron Loui, James Moscola, Doyle J. Weishar  
-IEEE Aerospace Conference, 2005  [CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=2a22469466d4c44dfb23605d59122291bc77bb44&repid=rep1&type=pdf)
+IEEE Aerospace Conference, 2005  [DOI](https://www.doi.org/10.1109/AERO.2005.1559611)
 
 ---
 
