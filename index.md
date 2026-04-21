@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hello—I'm Chip Kastner. I'm a product manager with a background in computer engineering.  Here's a bit about my work and interests.
+A bit about my work and interests.
 
 ---
 
